@@ -1,0 +1,7 @@
+build*/
+*.o
+*.out
+.venv/
+__pycache__/
+*.sif
+perf.data*
